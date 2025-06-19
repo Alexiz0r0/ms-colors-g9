@@ -1,0 +1,6 @@
+@import "tailwindcss";
+@import "animate.css";
+
+.resposive .react-colorful {
+  width: auto;
+}
